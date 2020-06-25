@@ -1,19 +1,21 @@
 ---
 title: 'About Me'
-avatar: './me.jpg'
+avatar: './me.png'
 skills:
   - JavaScript (ES6+)
-  - HTML & (S)CSS
-  - React
+  - Python (Flask)
   - Vue
+  - SQLAlchemy
   - Node.js
-  - WordPress
+  - Express
+  - HTML & CSS
+  - Rest API
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA.
+Hello! I'm Manisha, a software engineer based in Islamabad, PK.
 
-I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
+I am a BS(CS) graduated Software Engineer with 3+ years of experience in delivering high-quality applications from building to testing software systems. I have been obsessed with the idea of using software to solve practical problems.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+I have been a part of the development team at [Automotive Artificial Intelligence](https://www.automotive-ai.com//) where I work on their core product namely AAI Replicar.
 
 Here are a few technologies I've been working with recently:
